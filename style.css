@@ -100,3 +100,18 @@ h3{
      h2 {
          color: #001858;
      }
+
+@media (max-width: 400px) {
+    .card {
+        width: 335px;
+    }
+
+    .myself {
+        width: 120px;
+        margin-top: 10px;
+    }
+
+    .about {
+        font-size: 15px;
+    }
+}
