@@ -10,8 +10,10 @@ This is a free template of a basic business card made with HTML/CSS. The code is
 Clone this into your own folder and modify it.
 
 ```bash
-pip install foobar
+git clone git@github.com:jcv12/Personal-Business-Card.git
 ```
+
+The website link to preview: https://jcv12.github.io/Personal-Business-Card/
 
 ## Usage
 
