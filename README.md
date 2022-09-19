@@ -1,4 +1,3 @@
-# Personal-Business-Card
 # Template Business Card
 
 This is a free template of a basic business card made with HTML/CSS. The code is commented to those who would like to change it up. This can be used for both experienced programmers and people who have no idea what web development is and just would like a nice card.
